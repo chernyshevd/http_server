@@ -1,0 +1,22 @@
+### PyCharm ###
+
+.idea/
+
+### VisualStudioCode ###
+
+.vscode/
+
+
+# Environments
+myenv/
+.venv/
+
+# Unit test / coverage reports
+coverage/
+*.coverage
+
+### Other ###
+.DS_Store
+*pylint.svg
+.pylintrc
+__pycache__
